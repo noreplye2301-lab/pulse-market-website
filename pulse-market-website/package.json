@@ -1,8 +1,0 @@
-{
-  "name": "pulse-market-website",
-  "version": "1.0.0",
-  "description": "Pulse.Market - Fast Beats. Faster Boosts",
-  "scripts": {
-    "build": "chmod +x vercel-build.sh && ./vercel-build.sh"
-  }
-}
