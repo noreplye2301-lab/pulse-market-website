@@ -3,11 +3,6 @@
   "version": "1.0.0",
   "description": "Pulse.Market - Fast Beats. Faster Boosts",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "devDependencies": {
-    "vite": "^4.4.5"
+    "build": "echo 'Building static site'"
   }
 }
