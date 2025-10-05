@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Pulse.Market - Fast Beats. Faster Boosts",
   "scripts": {
-    "build": "echo 'Building static site'"
+    "build": "chmod +x vercel-build.sh && ./vercel-build.sh"
   }
 }
